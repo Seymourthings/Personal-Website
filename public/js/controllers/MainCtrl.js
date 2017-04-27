@@ -1,13 +1,10 @@
 angular.module('MainCtrl', []).controller('MainController', function($scope) {
 
 	$scope.social = {
-		linkedin: 'https://www.linkedin.com/in/manishrw',
-		twitter: 'https://twitter.com/manishrw',
-		skype: 'skype:manishsvnit007',
-		github: 'https://github.com/manishrw/'
+		linkedin: 'https://www.linkedin.com/in/desean-abraham-1a3aa772',
+		github: 'https://github.com/seymourthings/'
 	};
-	$scope.phone = '+91 88847 15911';
-	$scope.address = {street: 'Koramangala, Bangalore - 560047', state: 'KA, India.'};
-	$scope.mail = 'manishrw@yahoo.com';
+
+	$scope.mail = 'desean.abraham@gmail.com';
 
 });

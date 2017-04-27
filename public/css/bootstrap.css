@@ -4492,8 +4492,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #222;
-  border-color: #080808;
+  background-color: #001f3f;
+  border-color: #85144b;
 }
 .navbar-inverse .navbar-brand {
   color: #9d9d9d;
@@ -4856,17 +4856,16 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding: 30px 15px;
-  margin-bottom: 30px;
+  padding: 0px 0px;
   color: inherit;
   background-color: #eee;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: inherit;
+  color: #001f3f;
 }
 .jumbotron p {
-  margin-bottom: 15px;
+  margin-bottom: 0px;
   font-size: 21px;
   font-weight: 200;
 }
@@ -4882,7 +4881,7 @@ a.badge:focus {
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding: 48px 0;
+    padding: 0px;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
